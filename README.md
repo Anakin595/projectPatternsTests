@@ -1,0 +1,2 @@
+# projectPatternsTests
+Learning project pattens
